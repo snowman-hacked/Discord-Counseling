@@ -76,3 +76,8 @@ OPENAI_API_KEY=OpenAI_API_키
 - [x] `!연애` 명령어 정상 응답
 - [x] 하루 100회 제한 작동함
 - [x] OpenAI API 키 정상 연결됨
+
+### 참고자료
+- https://velog.io/@chuu1019/AI-ChatGpt4-Discord-Bot-%EB%A7%8C%EB%93%A4%EA%B8%B0-feat.-python
+- https://yongeekd01.tistory.com/193
+- GPT를 통한 프롬포트 제작 및 코드 리펙토링(사용 비율은 50%)
